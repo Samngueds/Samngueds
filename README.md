@@ -2,7 +2,7 @@
 
 Estou atualmente Aprendendo sobre Desenvolvimentos De jogos & Linguagem de Progamação
 
-![guilty-gear-guilty](https://github.com/Samngueds/Samngueds/assets/125109662/4c2f2156-e0b9-46b4-ad94-76927bcb59a5)
+  ![guilty-gear-guilty](https://github.com/Samngueds/Samngueds/assets/125109662/4c2f2156-e0b9-46b4-ad94-76927bcb59a5)
 
 ### Entre Contato Comigo
 
