@@ -13,9 +13,12 @@ Estou atualmente Aprendendo sobre Desenvolvimentos De jogos & Linguagem de Proga
 ### Habilidades
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-800000?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
+![HTML5](https://img.shields.io/badge/html5-800000.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-800000.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-800000?style=for-the-badge&logo=bootstrap&logoColor=553C7B)
 [![Git](https://img.shields.io/badge/Git-800000?style=for-the-badge&logo=git&logoColor=FFFFFF)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-800000?style=for-the-badge&logo=github&logoColor=30d3DC)](https://docs.github.com/)
+
 
 ### GitHub Stats
 
