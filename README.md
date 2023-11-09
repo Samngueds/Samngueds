@@ -1,7 +1,8 @@
 # Samuel Gueds
 
-estou atualmente Aprendendo sobre Desenvolvimentos De jogos e de linguagem de Progamação
+Estou atualmente Aprendendo sobre Desenvolvimentos De jogos & Linguagem de Progamação
 
+![guilty-gear-guilty](https://github.com/Samngueds/Samngueds/assets/125109662/4c2f2156-e0b9-46b4-ad94-76927bcb59a5)
 
 ### Entre Contato Comigo
 
@@ -10,7 +11,6 @@ estou atualmente Aprendendo sobre Desenvolvimentos De jogos e de linguagem de Pr
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-800000?style=for-the-badge&logo=linkedin&logoColor=FFFAF0)](https://www.linkedin.com/in/samuel-guedes-b899231ab/)
 
 ### Habilidades
-
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-800000?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-800000?style=for-the-badge&logo=bootstrap&logoColor=553C7B)
