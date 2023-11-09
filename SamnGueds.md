@@ -2,7 +2,7 @@
 
 Sou novato nesse Mundo De desenvolvimentos De jogos e de linguagem de Progamaçao
 
-### Entre Em Comigo
+### Entre Contato Comigo
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-FFFAF0?style=for-the-badge)](https://www.dio.me/users/samnsgueds)
 [![E-mail](https://img.shields.io/badge/-Email-800000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:samngueds@gmail.com)
