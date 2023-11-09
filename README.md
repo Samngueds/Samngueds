@@ -26,4 +26,4 @@ estou atualmente Aprendendo sobre Desenvolvimentos De jogos e de linguagem de Pr
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=800000&border_color=FFFAF0&show_icons=true&icon_color=FFFAF0&title_color=FFFFFF&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source) [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Samngueds&repo=Dio-desafio-De-primerio-Repositorio&bg_color=800000&border_color=FFFAF0&show_icons=true&icon_color=FFFAF0&title_color=FFFFFF&text_color=FFF)](https://github.com/Samngueds/Dio-desafio-De-primerio-Repositorio)
 
-![Snake animation](https://github.com/seu-usuário-aqui/samngueds/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/seu-usuário-aqui/Samngueds/blob/output/github-contribution-grid-snake.svg)
