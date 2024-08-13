@@ -28,10 +28,6 @@ Estou atualmente Aprendendo sobre DevGames & DevOps & Linguagem de Progamação.
 
 ### Meus Principais Projetos & Minhas Contribuições 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Samngueds/Samngueds/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Samngueds/Samngueds/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Samngueds/Samngueds/blob/output/github-snake.svg" />
-</picture>
+
 
 [![Repo samn git autamatico](https://github-readme-stats.vercel.app/api/pin/?username=samngueds&repo=Script-Comandos-de-Push-prontos&bg_color=800000&border_color=FFFAF0&show_icons=true&icon_color=FFFAF0&title_color=FFFFFF&text_color=FFF)](https://github.com/Samngueds/Script-Comandos-de-Push-prontos) [![Repo samn Pokedex ](https://github-readme-stats.vercel.app/api/pin/?username=samngueds&repo=Poke-Dex&bg_color=800000&border_color=FFFAF0&show_icons=true&icon_color=FFFAF0&title_color=FFFFFF&text_color=FFF)](https://github.com/Samngueds/Poke-Dex) [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=800000&border_color=FFFAF0&show_icons=true&icon_color=FFFAF0&title_color=FFFFFF&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source) [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Samngueds&repo=Dio-desafio-De-primerio-Repositorio&bg_color=800000&border_color=FFFAF0&show_icons=true&icon_color=FFFAF0&title_color=FFFFFF&text_color=FFF)](https://github.com/Samngueds/Dio-desafio-De-primerio-Repositorio)
