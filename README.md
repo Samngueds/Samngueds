@@ -1,6 +1,6 @@
 # Samuel Gueds
 
-Estou atualmente Aprendendo sobre Desenvolvimentos De jogos & Linguagem de Progamação
+Estou atualmente Aprendendo sobre DevGames & DevOps & Linguagem de Progamação.
 
 ![type-computer](https://github.com/Samngueds/Samngueds/assets/125109662/f62f4493-0c87-4a98-9b5d-794c460f7866)
 
