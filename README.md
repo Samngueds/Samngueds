@@ -47,7 +47,7 @@
 ### Minhas estatistiscas
 <img align="margin-rigth: 100px;" src="https://i.gifer.com/origin/9a/9a85181d85f957e7b67a08255807107d_w200.webp" width="200" height="200" />![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samngueds&theme=transparent&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)
 
-<img align="margin-rigth: 100px;" src="https://media1.tenor.com/m/BJ-9w-MUVCMAAAAC/tis100-sad.gif" width="158" height="158" /> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samngueds&layout=compact&bg_color=0d1117&border_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)
+<img align="margin-rigth: 100px;" src="https://media.tenor.com/8Yp9XkSvkPIAAAAi/rei-ayanami-bread.gif" width="250" height="180" /> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samngueds&layout=compact&bg_color=0d1117&border_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)
 
 
 ### Meus Principais Projetos & Minhas Contribuições
