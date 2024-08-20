@@ -24,6 +24,7 @@
 ![Ruby](https://img.shields.io/badge/Ruby-0d1117?style=for-the-badge&logo=ruby&logoColor=c9d1d9)
 
 
+
 ### Habilidades
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=c9d1d9)
 ![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=c9d1d9)
@@ -34,12 +35,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9)
 
 
+
 ### GitHub Stats
 <img align="margin-rigth: 100px;" src="https://i.gifer.com/origin/9a/9a85181d85f957e7b67a08255807107d_w200.webp" width="100" height="100" />![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samngueds&theme=transparent&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samngueds&layout=compact&bg_color=0d1117&border_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)
 
+
 ### Meus Principais Projetos & Minhas Contribuições
 ![Novo Snake GIF](https://github.com/Samngueds/Samngueds/blob/output/github-contribution-grid-snake.svg)
+
 
 [![Repo samn git automatico](https://github-readme-stats.vercel.app/api/pin/?username=samngueds&repo=Script-Comandos-de-Push-prontos&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)](https://github.com/Samngueds/Script-Comandos-de-Push-prontos)
 [![Repo samn Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=samngueds&repo=Poke-Dex&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)](https://github.com/Samngueds/Poke-Dex)
