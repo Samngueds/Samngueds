@@ -6,9 +6,15 @@ Estou atualmente Aprendendo sobre DevGames & DevOps & Linguagem de Progamação.
 
 ### Entre Contato Comigo
 
+[![Meu Portifolio](https://img.shields.io/badge/-Meu%20Portifolio%20-FFFAF0?style=for-the-badge)]()
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-FFFAF0?style=for-the-badge)](https://www.dio.me/users/samnsgueds)
 [![E-mail](https://img.shields.io/badge/-Email-800000?style=for-the-badge&logo=microsoft-outlook&logoColor=FFFFFF)](mailto:samngueds@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-800000?style=for-the-badge&logo=linkedin&logoColor=FFFAF0)](https://www.linkedin.com/in/samuel-guedes-b899231ab/)
+
+
+### linguagem Principal
+
+![Ruby](https://img.shields.io/badge/Ruby-800000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 ### Habilidades
 
@@ -30,4 +36,4 @@ Estou atualmente Aprendendo sobre DevGames & DevOps & Linguagem de Progamação.
 
 ![snake gif](https://github.com/Samngueds/Samngueds/blob/output/github-contribution-grid-snake.svg)
 
-[![Repo samn git autamatico](https://github-readme-stats.vercel.app/api/pin/?username=samngueds&repo=Script-Comandos-de-Push-prontos&bg_color=800000&border_color=FFFAF0&show_icons=true&icon_color=FFFAF0&title_color=FFFFFF&text_color=FFF)](https://github.com/Samngueds/Script-Comandos-de-Push-prontos) [![Repo samn Pokedex ](https://github-readme-stats.vercel.app/api/pin/?username=samngueds&repo=Poke-Dex&bg_color=800000&border_color=FFFAF0&show_icons=true&icon_color=FFFAF0&title_color=FFFFFF&text_color=FFF)](https://github.com/Samngueds/Poke-Dex) [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=800000&border_color=FFFAF0&show_icons=true&icon_color=FFFAF0&title_color=FFFFFF&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source) [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Samngueds&repo=Dio-desafio-De-primerio-Repositorio&bg_color=800000&border_color=FFFAF0&show_icons=true&icon_color=FFFAF0&title_color=FFFFFF&text_color=FFF)](https://github.com/Samngueds/Dio-desafio-De-primerio-Repositorio)
+[![Repo samn git autamatico](https://github-readme-stats.vercel.app/api/pin/?username=samngueds&repo=Script-Comandos-de-Push-prontos&bg_color=800000&border_color=FFFAF0&show_icons=true&icon_color=FFFAF0&title_color=FFFFFF&text_color=FFF)](https://github.com/Samngueds/Script-Comandos-de-Push-prontos) [![Repo samn Pokedex ](https://github-readme-stats.vercel.app/api/pin/?username=samngueds&repo=Poke-Dex&bg_color=800000&border_color=FFFAF0&show_icons=true&icon_color=FFFAF0&title_color=FFFFFF&text_color=FFF)](https://github.com/Samngueds/Poke-Dex) [![Repo pioano](https://github-readme-stats.vercel.app/api/pin/?username=Samngueds&repo=Piano-Virtual-Feito-em-Js&bg_color=800000&border_color=FFFAF0&show_icons=true&icon_color=FFFAF0&title_color=FFFFFF&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source) [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Samngueds&repo=Dio-desafio-De-primerio-Repositorio&bg_color=800000&border_color=FFFAF0&show_icons=true&icon_color=FFFAF0&title_color=FFFFFF&text_color=FFF)](https://github.com/Samngueds/Dio-desafio-De-primerio-Repositorio)
