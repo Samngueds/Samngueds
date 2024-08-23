@@ -27,7 +27,7 @@
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0d1117?style=for-the-badge&logo=freecodecamp&logoColor=c9d1d9)](https://www.dio.me/users/samnsgueds)
 [![E-mail](https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=c9d1d9)](mailto:samngueds@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=c9d1d9)](https://www.linkedin.com/in/samuel-guedes-b899231ab/)
-[![Discord](https://img.shields.io/badge/-Discord-0d1117?style=for-the-badge&logo=discord&logoColor=c9d1d9)](_samn_)
+<!--[![Discord](https://img.shields.io/badge/-Discord-0d1117?style=for-the-badge&logo=discord&logoColor=c9d1d9)](_samn_)-->
 
 
 ### Linguagem Principal
