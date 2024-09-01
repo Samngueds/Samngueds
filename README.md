@@ -57,7 +57,7 @@
 [![Repo samn git automatico](https://github-readme-stats.vercel.app/api/pin/?username=samngueds&repo=Script-Comandos-de-Push-prontos&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)](https://github.com/Samngueds/Script-Comandos-de-Push-prontos)
 [![Repo samn Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=samngueds&repo=Poke-Dex&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)](https://github.com/Samngueds/Poke-Dex)
 [![Repo Piano Virtual](https://github-readme-stats.vercel.app/api/pin/?username=Samngueds&repo=Piano-Virtual-Feito-em-Js&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)](https://github.com/elidianaandrade/dio-lab-open-source)
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Samngueds&repo=Dio-desafio-De-primerio-Repositorio&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)](https://github.com/Samngueds/Dio-desafio-De-primerio-Repositorio)
+[![Guia De Ruby](https://github-readme-stats.vercel.app/api/pin/?username=Samngueds&repo=Aprendendo-Ruby&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)](https://github.com/Samngueds/Aprendendo-Ruby)
 
 
 
