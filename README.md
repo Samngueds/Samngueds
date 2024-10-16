@@ -31,14 +31,14 @@
 <!--[![Discord](https://img.shields.io/badge/-Discord-0d1117?style=for-the-badge&logo=discord&logoColor=c9d1d9)](_samn_)-->
 
 
-### Linguagem Principal
+### Linguagens Principais
+![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=c9d1d9)
 ![Ruby](https://img.shields.io/badge/Ruby-0d1117?style=for-the-badge&logo=ruby&logoColor=c9d1d9)
 
 
 
 ### Habilidades
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=c9d1d9)
-![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=c9d1d9)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=c9d1d9)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=c9d1d9)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=c9d1d9)
