@@ -56,8 +56,9 @@ https://media1.tenor.com/m/3B9fNHbfAxcAAAAC/anime-animecomputer.gif
 https://media.tenor.com/8Yp9XkSvkPIAAAAi/rei-ayanami-bread.gif
 <img align="margin-rigth: 100px;" src="https://media1.tenor.com/m/3B9fNHbfAxcAAAAC/anime-animecomputer.gif" width="250" height="180" />-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samngueds&layout=compact&bg_color=0d1117&border_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)
-
-<img src="https://media1.tenor.com/m/aAo5LNwJwRwAAAAC/machine-anime.gif"  width="300" height="195" /> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Samngueds&locale=pt_br&theme=dark&background=0D1117&border=C9D1D9&stroke=C9D1D9&ring=C9D1D9&fire=8B0911&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&excludeDaysLabel=C9D1D9)](https://git.io/streak-stats)
+<!--
+<img src="https://media1.tenor.com/m/aAo5LNwJwRwAAAAC/machine-anime.gif"  width="300" height="195" /> -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Samngueds&locale=pt_br&theme=dark&background=0D1117&border=C9D1D9&stroke=C9D1D9&ring=C9D1D9&fire=8B0911&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&excludeDaysLabel=C9D1D9)](https://git.io/streak-stats)
 
 ### Meus Principais Projetos & Minhas Contribuições
 
