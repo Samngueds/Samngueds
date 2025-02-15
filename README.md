@@ -8,14 +8,12 @@
 <details>
   <summary>Sobre Mim</summary>
   - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Sam (Samuel Gueds)
-   22 anos
+   23 anos
   
 </details>
 
 <details>
   <summary>Estou atualmente aprendendo</summary>
-
-- DevOps
 - DevGames
 
 </details>
@@ -32,8 +30,9 @@
 
 
 ### Linguagens Principais
+![java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=c9d1d9)
 ![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=c9d1d9)
-![Ruby](https://img.shields.io/badge/Ruby-0d1117?style=for-the-badge&logo=ruby&logoColor=c9d1d9)
+
 
 
 
@@ -44,6 +43,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0d1117?style=for-the-badge&logo=bootstrap&logoColor=c9d1d9)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=c9d1d9)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9)
+![Ruby](https://img.shields.io/badge/Ruby-0d1117?style=for-the-badge&logo=ruby&logoColor=c9d1d9)
 
 
 
