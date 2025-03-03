@@ -31,8 +31,8 @@
 
 ### Linguagens Principais
 ![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=C%2B%2B&logoColor=c9d1d9)
-![java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=c9d1d9)
-![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=c9d1d9)
+<!--![java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=c9d1d9)
+![C#](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=c9d1d9)-->
 
 
 
