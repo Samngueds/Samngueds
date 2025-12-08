@@ -51,22 +51,22 @@
 ### Minhas estatistiscas
 <!-- https://media1.tenor.com/m/iBC-JnnEcaQAAAAC/xp-windows.gif
 <img align="margin-rigth: 100px;" src="https://i.gifer.com/origin/9a/9a85181d85f957e7b67a08255807107d_w200.webp" width="190" height="200" />-->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samngueds&theme=transparent&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)
+![GitHub Stats](https://samn-readme-stats.vercel.app/api?username=Samngueds&theme=transparent&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)
 <!--
 https://media1.tenor.com/m/3B9fNHbfAxcAAAAC/anime-animecomputer.gif
 https://media.tenor.com/8Yp9XkSvkPIAAAAi/rei-ayanami-bread.gif
 <img align="margin-rigth: 100px;" src="https://media1.tenor.com/m/3B9fNHbfAxcAAAAC/anime-animecomputer.gif" width="250" height="180" />-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samngueds&layout=compact&bg_color=0d1117&border_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)
+![Top Langs](https://samn-readme-stats.vercel.app/api/top-langs/?username=Samngueds&layout=compact&bg_color=0d1117&border_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)
 <!--
 <img src="https://media1.tenor.com/m/aAo5LNwJwRwAAAAC/machine-anime.gif"  width="300" height="195" /> -->
-[![GitHub Streak](github-readme-streak-stats.herokuapp.com/?user=Samngueds&locale=pt_br&theme=dark&background=0D1117&border=C9D1D9&stroke=C9D1D9&ring=C9D1D9&fire=8B0911&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&excludeDaysLabel=C9D1D9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Samngueds&locale=pt_br&theme=dark&background=0D1117&border=C9D1D9&stroke=C9D1D9&ring=C9D1D9&fire=8B0911&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&excludeDaysLabel=C9D1D9)](https://git.io/streak-stats)
 
 ### Meus Principais Projetos & Minhas Contribuições
 
-[![Guia De C++](https://github-readme-stats.vercel.app/api/pin/?username=samngueds&repo=Aprendendo-CPP&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)](https://github.com/Samngueds/Aprendendo-CPP)
-[![Guia De C#](https://github-readme-stats.vercel.app/api/pin/?username=Samngueds&repo=Aprendendo-Csharp&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)](https://github.com/elidianaandrade/dio-lab-open-source)
-[![Guia De Ruby](https://github-readme-stats.vercel.app/api/pin/?username=Samngueds&repo=Aprendendo-Ruby&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)](https://github.com/Samngueds/Aprendendo-Ruby)
-[![Repo samn git automatico](https://github-readme-stats.vercel.app/api/pin/?username=samngueds&repo=Script-Comandos-de-Push-prontos&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)](https://github.com/Samngueds/Script-Comandos-de-Push-prontos)
+[![Guia De C++](https://samn-readme-stats.vercel.app/api/pin/?username=samngueds&repo=Aprendendo-CPP&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)](https://github.com/Samngueds/Aprendendo-CPP)
+[![Guia De C#](https://samn-readme-stats.vercel.app/api/pin/?username=Samngueds&repo=Aprendendo-Csharp&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)](https://github.com/elidianaandrade/dio-lab-open-source)
+[![Guia De Ruby](https://samn-readme-stats.vercel.app/api/pin/?username=Samngueds&repo=Aprendendo-Ruby&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)](https://github.com/Samngueds/Aprendendo-Ruby)
+[![Repo samn git automatico](https://samn-readme-stats.vercel.app/api/pin/?username=samngueds&repo=Script-Comandos-de-Push-prontos&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)](https://github.com/Samngueds/Script-Comandos-de-Push-prontos)
 
 
 
